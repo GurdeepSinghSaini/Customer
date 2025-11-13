@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
 Customer Behavior Analytics
 - Load Excel/CSV transactions
 - Compute KPIs, RFM, cohort retention
